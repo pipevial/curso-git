@@ -1,0 +1,98 @@
+commit b6504f3afea1e9cd0825c91d9d2148bcd496636c
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Thu Aug 8 11:55:06 2024 -0400
+
+    Agregando 2 parrafos
+
+commit cded1f5112c7f73bcddc9fc7c0913bd3cd61b35f
+Merge: a0f9c6e fdc9515
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Thu Aug 8 11:53:03 2024 -0400
+
+    Resolviendo conflicto agregrando el inicio (mes) a las estaciones del año
+
+commit a0f9c6ea95a813016019ba5ce99d32967ae35307
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Thu Aug 8 11:37:41 2024 -0400
+
+    Agregrando el inicio (mes) a las estaciones del año
+
+commit fdc9515719e7ae64e370676abdaf20002940d313
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Thu Aug 8 11:37:41 2024 -0400
+
+    Agregando las estaciones del año
+
+commit d9887675d1925f8b934634f853c1170ade5a6150
+Merge: 2afb8ec d8bcb66
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Thu Aug 8 11:30:09 2024 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit d8bcb66e7697bb56e6977b12c56076f9b8cd99c2
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Thu Aug 8 11:24:19 2024 -0400
+
+    Agregando index.js al index.html
+
+commit 2afb8ec03331551cba9e35a8192239d09a1a7fb2
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Thu Aug 8 11:22:10 2024 -0400
+
+    Agregando style.csss al index.html
+
+commit ce6f7390a3e771edf5011580eee108a67552db12
+Merge: b244ef0 1b69a2e
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Thu Aug 8 11:09:49 2024 -0400
+
+    Merge branch 'js'
+
+commit 1b69a2e864c681006bea66f7074915c23811c25b
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Tue Aug 6 19:07:45 2024 -0400
+
+    Creado index.js
+
+commit b244ef0faddd00039fa04353342fb1d4dc716cb0
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Tue Aug 6 19:03:13 2024 -0400
+
+    Creando style.css
+
+commit 10e73fcdf2f0f0d6686901a03b16313de1ce174d
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Tue Aug 6 18:59:09 2024 -0400
+
+    Creando index.html
+
+commit 23259de7607829bb87d487b2b7e6258a2d8b953e
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Tue Aug 6 18:37:46 2024 -0400
+
+    Ignorando archivos .exe
+
+commit afad4b15a27bbc99cc3d23aba14a3049f43e051c
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Tue Aug 6 18:23:39 2024 -0400
+
+    Create LICENSE
+
+commit a5e3d3ca9a150fc59dca7f5789c3edda5bccc125
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Tue Aug 6 18:17:52 2024 -0400
+
+    Agregando mas contenido al readme
+
+commit 7523fa1452a4aebbebc08ed88bfb2b0deb3aed49
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Tue Aug 6 18:04:25 2024 -0400
+
+    Agregando contenido inicial al readme
+
+commit 2b0a9aa3956115a6cd5e75e723d1c2862f1bb176
+Author: Felipe Vial <pipevial2002@gmail.com>
+Date:   Tue Aug 6 18:00:26 2024 -0400
+
+    Primer commin 😊

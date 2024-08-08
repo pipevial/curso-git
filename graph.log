@@ -1,0 +1,23 @@
+* b6504f3 Agregando 2 parrafos
+*   cded1f5 Resolviendo conflicto agregrando el inicio (mes) a las estaciones del año
+|\  
+| * fdc9515 Agregando las estaciones del año
+* | a0f9c6e Agregrando el inicio (mes) a las estaciones del año
+|/  
+*   d988767 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * d8bcb66 Agregando index.js al index.html
+* | 2afb8ec Agregando style.csss al index.html
+* |   ce6f739 Merge branch 'js'
+|\ \  
+| * | 1b69a2e Creado index.js
+* | | b244ef0 Creando style.css
+| |/  
+|/|   
+* | 10e73fc Creando index.html
+|/  
+* 23259de Ignorando archivos .exe
+* afad4b1 Create LICENSE
+* a5e3d3c Agregando mas contenido al readme
+* 7523fa1 Agregando contenido inicial al readme
+* 2b0a9aa Primer commin 😊
